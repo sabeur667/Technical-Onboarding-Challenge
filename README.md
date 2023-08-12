@@ -31,7 +31,7 @@ Ce projet vise à fournir une API RESTful pour gérer les transactions de carte 
 
   ## Utilisation de l'API
   ### Liste des Transactions
-#### Endpoint: GET /listTransactions
+#### Endpoint: GET /Transactions
 #### Paramètres de Requête:
   -  amount : Montant de la transaction (optionnel)
   -  merchant : Nom du marchand (optionnel)
